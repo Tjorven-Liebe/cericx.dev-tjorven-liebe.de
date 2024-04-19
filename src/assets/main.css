@@ -1,0 +1,10 @@
+@import './base.css';
+
+.navbar-nav {
+    justify-content: center;
+}
+
+body {
+    overflow-x: hidden;
+    background: #24273a !important;
+}
