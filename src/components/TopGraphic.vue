@@ -17,7 +17,7 @@ const links = ref({
   }
 })
 
-let props = defineProps(['imageSource', 'referenceLinks'])
+let props = defineProps(['imageSource'])
 
 const options = {
   strings: ['I am <b>Tjorven Liebe</b>!',
